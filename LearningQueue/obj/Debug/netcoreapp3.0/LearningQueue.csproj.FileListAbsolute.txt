@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\bin\Debug\netcoreapp3.0\LearningQueue.exe
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\bin\Debug\netcoreapp3.0\LearningQueue.deps.json
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\bin\Debug\netcoreapp3.0\LearningQueue.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\bin\Debug\netcoreapp3.0\LearningQueue.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\bin\Debug\netcoreapp3.0\LearningQueue.dll
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\bin\Debug\netcoreapp3.0\LearningQueue.pdb
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\obj\Debug\netcoreapp3.0\LearningQueue.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\obj\Debug\netcoreapp3.0\LearningQueue.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\obj\Debug\netcoreapp3.0\LearningQueue.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\obj\Debug\netcoreapp3.0\LearningQueue.dll
+C:\Users\Jason\source\repos\LearningQueue\LearningQueue\obj\Debug\netcoreapp3.0\LearningQueue.pdb
